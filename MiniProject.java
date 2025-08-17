@@ -7,4 +7,3 @@ public class MiniProject {
         // Your code logic here
     }
 }
-add
